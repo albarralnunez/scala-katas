@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/danielalbarral/IdeaProjects/scala-katas/src/main/scala/akka/crawler/Messages.scala:9:42: not found: type PiMessage[0m
-[0m[[0m[31merror[0m] [0m[0mcase class Result(value: Double) extends PiMessage[0m
-[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
