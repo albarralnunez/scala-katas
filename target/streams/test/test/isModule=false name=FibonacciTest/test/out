@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFibonacciTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 0 or 1 if index is 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31mFibonacciTest *** ABORTED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.StackOverflowError:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:6)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Fibonacci.getResult(Fibonacci.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
